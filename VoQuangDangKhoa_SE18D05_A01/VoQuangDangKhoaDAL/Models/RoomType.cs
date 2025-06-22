@@ -1,0 +1,10 @@
+﻿namespace VoQuangDangKhoaDAL.Models
+{
+    public class RoomType
+    {
+        public int RoomTypeID { get; set; }
+        public string RoomTypeName { get; set; } // max 50 chars
+        public string TypeDescription { get; set; } // max 250 chars
+        public string TypeNote { get; set; } // max 250 chars
+    }
+}
