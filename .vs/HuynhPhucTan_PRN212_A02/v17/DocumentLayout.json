@@ -1,82 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\",
+  "WorkspaceRootPath": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\LoginWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\services\\ibookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\services\\ibookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|solutionrelative:services\\ibookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43468ECA-9901-4620-A9E4-EEB1389F5447}|Services\\Services.csproj|solutionrelative:services\\bookingdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\repositories\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\repositories\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9369A099-54EC-422F-9468-C3B8C3C0B01E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\businessobjects\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\businessobjects\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\customerpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\customerpopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\roompopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\roompopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\bookingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\bookingpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA08878-8BB7-43C8-9567-3E1F3B030FB2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\thien an\\documents\\voquangdangkhoa_prn212_a02\\businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77303AC9-79EB-4BCF-85F2-2C08804EB4B3}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|d:\\dotnet\\test\\huynhphuctan_prn212_a02\\huynhphuctanwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BB8F094-3C0B-4A8D-87E7-CFF27CC38291}|HuynhPhucTanWPF\\HuynhPhucTanWPF.csproj|solutionrelative:huynhphuctanwpf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerPopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\BookingPopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\RoomPopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,13 +84,10 @@
               "DocumentIndex": 11,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\AdminWindow.xaml",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml",
-              "RelativeToolTip": "HuynhPhucTanWPF\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-09T08:48:17.377Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -107,153 +95,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IBookingDetailService.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Services\\IBookingDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Services\\IBookingDetailService.cs",
               "RelativeDocumentMoniker": "Services\\IBookingDetailService.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Services\\IBookingDetailService.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Services\\IBookingDetailService.cs",
               "RelativeToolTip": "Services\\IBookingDetailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:55:57.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T09:55:57.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\AdminWindow.xaml.cs",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "HuynhPhucTanWPF\\AdminWindow.xaml.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:33:11.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:33:11.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookingDetailDAO.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\DataAccessLayer\\BookingDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\DataAccessLayer\\BookingDetailDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\DataAccessLayer\\BookingDetailDAO.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\DataAccessLayer\\BookingDetailDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:28:30.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T09:28:30.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\LoginWindow.xaml.cs",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "HuynhPhucTanWPF\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:40:34.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
-              "RelativeToolTip": "HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAxwDsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:26:16.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerWindow.xaml",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\CustomerWindow.xaml",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml",
-              "RelativeToolTip": "HuynhPhucTanWPF\\CustomerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-10T10:02:09.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingDetail.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\BookingDetail.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingDetail.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\BookingDetail.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\BookingDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:17:31.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookingDetailService.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Services\\BookingDetailService.cs",
-              "RelativeDocumentMoniker": "Services\\BookingDetailService.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Services\\BookingDetailService.cs",
-              "RelativeToolTip": "Services\\BookingDetailService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:56:30.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookingDetailRepository.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Repositories\\BookingDetailRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookingDetailRepository.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Repositories\\BookingDetailRepository.cs",
-              "RelativeToolTip": "Repositories\\BookingDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:55:00.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBookingDetailRepository.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Repositories\\IBookingDetailRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IBookingDetailRepository.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\Repositories\\IBookingDetailRepository.cs",
-              "RelativeToolTip": "Repositories\\IBookingDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:54:00.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BookingReservation.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\BookingReservation.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingReservation.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\BookingReservation.cs",
-              "RelativeToolTip": "BusinessObjects\\Models\\BookingReservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:45:12.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:40:34.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAxwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:26:16.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml",
+              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-10T10:02:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:17:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Services\\BookingDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingDetailService.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Services\\BookingDetailService.cs",
+              "RelativeToolTip": "Services\\BookingDetailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:56:30.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Repositories\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Repositories\\BookingDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:55:00.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Repositories\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IBookingDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\Repositories\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\IBookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:54:00.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Models\\BookingReservation.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\Models\\BookingReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:45:12.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RoomInformation.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\RoomInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\RoomInformation.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Models\\RoomInformation.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\RoomInformation.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\RoomInformation.cs",
               "RelativeToolTip": "BusinessObjects\\Models\\RoomInformation.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,45 +229,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CustomerPopup.xaml.cs",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerPopup.xaml.cs",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\CustomerPopup.xaml.cs",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\CustomerPopup.xaml.cs",
-              "RelativeToolTip": "HuynhPhucTanWPF\\CustomerPopup.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T10:06:11.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookingPopup.xaml",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\BookingPopup.xaml",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\BookingPopup.xaml",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\BookingPopup.xaml",
-              "RelativeToolTip": "HuynhPhucTanWPF\\BookingPopup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-09T10:32:33.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "RoomPopup.xaml",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\RoomPopup.xaml",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\RoomPopup.xaml",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\RoomPopup.xaml",
-              "RelativeToolTip": "HuynhPhucTanWPF\\RoomPopup.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-09T11:49:41.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "CustomerDAO.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\DataAccessLayer\\CustomerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\DataAccessLayer\\CustomerDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\DataAccessLayer\\CustomerDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAWwB0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +269,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Models\\Customer.cs",
-              "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\BusinessObjects\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Thien An\\Documents\\VoQuangDangKhoa_PRN212_A02\\BusinessObjects\\Models\\Customer.cs",
               "RelativeToolTip": "BusinessObjects\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,9 +284,7 @@
               "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\appsettings.json",
-              "RelativeDocumentMoniker": "HuynhPhucTanWPF\\appsettings.json",
               "ToolTip": "D:\\DotNet\\Test\\HuynhPhucTan_PRN212_A02\\HuynhPhucTanWPF\\appsettings.json",
-              "RelativeToolTip": "HuynhPhucTanWPF\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-09T10:17:38.464Z"
